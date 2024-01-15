@@ -1,0 +1,15 @@
+C:\projects\Sap-Abap\outio c#\xml to json\bin\Debug\net6.0\xml to json.exe
+C:\projects\Sap-Abap\outio c#\xml to json\bin\Debug\net6.0\xml to json.deps.json
+C:\projects\Sap-Abap\outio c#\xml to json\bin\Debug\net6.0\xml to json.runtimeconfig.json
+C:\projects\Sap-Abap\outio c#\xml to json\bin\Debug\net6.0\xml to json.dll
+C:\projects\Sap-Abap\outio c#\xml to json\bin\Debug\net6.0\xml to json.pdb
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.csproj.AssemblyReference.cache
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.AssemblyInfoInputs.cache
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.AssemblyInfo.cs
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.csproj.CoreCompileInputs.cache
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.dll
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\refint\xml to json.dll
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.pdb
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\xml to json.genruntimeconfig.cache
+C:\projects\Sap-Abap\outio c#\xml to json\obj\Debug\net6.0\ref\xml to json.dll

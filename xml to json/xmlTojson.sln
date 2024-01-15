@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlTojson", "xmlTojson.csproj", "{8C7BFA2A-DB47-45BE-B486-FD5C3C91379E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7BFA2A-DB47-45BE-B486-FD5C3C91379E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7BFA2A-DB47-45BE-B486-FD5C3C91379E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7BFA2A-DB47-45BE-B486-FD5C3C91379E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7BFA2A-DB47-45BE-B486-FD5C3C91379E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498A9C32-2F41-4162-A177-7D299BBCB7C8}
+	EndGlobalSection
+EndGlobal
